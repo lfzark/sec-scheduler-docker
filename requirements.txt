@@ -15,3 +15,4 @@ redis == 2.10.5
 terminal == 0.4.0
 
 supervisor
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
